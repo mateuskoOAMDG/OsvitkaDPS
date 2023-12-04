@@ -7,6 +7,6 @@ OsvitkaDPS je skeč pre Arduino Nano, ktorý ovláda osvitku na DPS. Program pos
 * 4 Predvoľby nastavenia timera - každá predvoľba má jedno tlačítko
 * Možnosť nastaviť jumperom, či hardware podporuje jednu alebo dve osvitové lampy
 
-Skeč a dalšie potrebné súbory sú v priečinku /src.
-Skeč využíva externú knižnicu, ktorú treba rozbaliť a nakopírovať do priečinka knižníc Arduino (napr. Arduino/library)
+Skeč a dalšie potrebné súbory sú v priečinku */src*.
+Skeč využíva externú knižnicu, ktorá je umiestnená v priečinku */library*. PO stiahnutí ju treba rozbaliť a nakopírovať do priečinka knižníc Arduino (napr. Arduino/library)
 
