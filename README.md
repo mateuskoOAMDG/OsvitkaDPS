@@ -1,12 +1,13 @@
 # OsvitkaDPS
 ## Popis
-OsvitkaDPS je skeč pre Arduino Nano, ktorý ovláda osvitku na DPS. Program poskytuje:
-* Ovládanie 2 osvitových lámp na osvit obojstranných DPS (horná a dolná lampa)
-* Možnosť zvoliť, ktorá/-é osvitová/-é lampa/-y budú zapnuté 
-* Nastaviteľný Timer s presnosťou 1s
-* 4 Predvoľby nastavenia timera - každá predvoľba má jedno tlačítko
-* Možnosť nastaviť jumperom, či hardware podporuje jednu alebo dve osvitové lampy
+OsvitkaDPS is a project for Arduino Nano that controls an illumination device for the production of printed circuit boards.
 
-Skeč a dalšie potrebné súbory sú v priečinku */src*.
-Skeč využíva externú knižnicu, ktorá je umiestnená v priečinku */library*. PO stiahnutí ju treba rozbaliť a nakopírovať do priečinka knižníc Arduino (napr. Arduino/library)
+The program provides: 
+* Control of 2 illumination lamps for illumination of double-sided PCBs (upper and lower lamp) 
+* Option to choose which illumination lamp(s) will be switched on 
+* Adjustable Timer with 1s accuracy * 4 Timer setting presets - each preset has one button 
+* Ability to set with a jumper whether the hardware supports one or two illumination lamps
 
+
+
+The sketch and other necessary files are in the */src* folder. The sketch uses an external library that is located in the */library* folder. AFTER downloading, it must be unzipped and copied to the Arduino library folder (e.g. Arduino/library)
