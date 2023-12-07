@@ -1,12 +1,12 @@
 # OsvitkaDPS
-## Popis
+## What is it
 OsvitkaDPS is a project for Arduino Nano that controls an illumination device for the production of printed circuit boards.
 
 The program provides: 
-* Control of 2 illumination lamps for illumination of double-sided PCBs (upper and lower lamp) 
-* Option to choose which illumination lamp(s) will be switched on 
-* Adjustable Timer with 1s accuracy
-* 4 Timer setting presets - each preset has one button 
+* Two illumination lamps. Control of 2 illumination lamps for illumination of double-sided PCBs (upper and lower lamp). Option to choose which illumination lamp(s) will be switched on.
+* Adjustable Timer. The timer time is set with the Up and Down buttons in steps of 1 second.
+* 4 Timer setting presets. 
+* LCD display support. Setting information is displayed on the LCD 16x2 I2C display.
 * Ability to set with a jumper whether the hardware supports one or two illumination lamps
 
 
