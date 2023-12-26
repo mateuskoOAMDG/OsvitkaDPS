@@ -5,8 +5,6 @@
  *  @copyright (c) mateusko O.A.M.D.G
  */
 
-// pokusna verzia na ucenie sa z githubom
-
  /*  
   *  PAsivny buzzer na D5
   */
